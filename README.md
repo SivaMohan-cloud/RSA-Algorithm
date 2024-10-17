@@ -109,8 +109,8 @@ int main() {
 }
 ```
 ## output : 
+![{7F2BA50D-1545-4A5C-B9E0-13FC19E4FD2D}](https://github.com/user-attachments/assets/56e12e9d-3200-4936-9a6c-00b1a67cbedd)
 
-![image](https://github.com/user-attachments/assets/cb64e043-fa04-4596-bf49-a88bf88aee47)
 
 ## Result:
 
